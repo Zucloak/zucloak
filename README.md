@@ -1,7 +1,7 @@
-<!-- KEN MOSQUERA | SYNAPPSE INTEGRATED README | HIGH-IMPACT DESIGN -->
+<!-- KEN MOSQUERA | SYVANT INTEGRATED README | HIGH-IMPACT DESIGN -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=KEN+MOSQUERA;SYNAPPSE+ENTERPRISE;Engineering+the+Future;AI%2C+Web3%2C+Autonomy+Architects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=KEN+MOSQUERA;SYVANT+ENTERPRISE;Engineering+the+Future;AI%2C+Web3%2C+Autonomy+Architects" alt="Typing Animation" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 KEN MOSQUERA | SYNAPPSE ENTERPRISE
+# 🚀 KEN MOSQUERA | SYVANT ENTERPRISE
 
 > **Engineering Autonomy | Empowering Systems | Envisioning Futures**
 
@@ -32,7 +32,7 @@
 | 🚀 Digital Transformation  | Merging Mechanical + Software Systems   |
 | 🧠 Knowledge Synthesis     | Tech Convergence for Next-Gen Solutions |
 
-### SYNAPPSE SYSTEMS
+### SYVANT SYSTEMS
 
 | 🚩 DOMAIN              | 🔍 FOCUS                                      |
 | ---------------------- | --------------------------------------------- |
@@ -42,7 +42,7 @@
 | 🎨 Product Design      | UX/UI, Creative Engineering                   |
 | 🚀 Next-Gen Tech       | Quantum Computing, Digital Identity           |
 
-🌐 [Visit SYNAPPSE](https://synappse.vercel.app)
+🌐 [Visit SYVANT](https://Syvant.vercel.app)
 
 ---
 
@@ -93,7 +93,7 @@
   <a href="https://linkedin.com/in/kenmosquera"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Zucloak"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://zucloak.dev"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://synappse.vercel.app"><img src="https://img.shields.io/badge/SYNAPPSE-00D4FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://syvant.vercel.app"><img src="https://img.shields.io/badge/syvant-00D4FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ## 💡 PROFESSIONAL ETHOS
 
 > **"The future belongs to those who engineer it."**
-> **Ken Mosquera | SYNAPPSE Technologies**
+> **Ken Mosquera | SYVANT Technologies**
 
 ---
 
@@ -118,7 +118,7 @@
 
 > This profile is not aesthetics. It's not trends. It's **mission-critical infrastructure for visionaries, technologists, and builders.**
 >
-> **KEN MOSQUERA | SYNAPPSE** isn't a name. It's an Operating System for the future.
+> **KEN MOSQUERA | SYVANT** isn't a name. It's an Operating System for the future.
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+engineer+something+iconic!;Deploy+Bold+Ideas!" />
