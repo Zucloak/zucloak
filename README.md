@@ -66,7 +66,7 @@
 
 ### 🕸️ Blockchain / Web3
 
-![Web3](https://skillicons.dev/icons?i=solidity,ethereum&theme=dark) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48" height="48" alt="Ethereum" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
 
 ---
 
@@ -105,4 +105,21 @@
 
 ---
 
-## 📍 DIGITAL F
+## 📍 DIGITAL FOOTPRINT
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zucloak&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Zucloak?color=00D4FF&style=for-the-badge&label=FOLLOWERS"/>
+</p>
+
+---
+
+## 🚩 FINAL TRANSMISSION
+
+> This profile is not aesthetics. It's not trends. It's **mission-critical infrastructure for visionaries, technologists, and builders.**
+>
+> **KEN MOSQUERA | SYVANT** isn't a name. It's an Operating System for the future.
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+engineer+something+iconic!;Deploy+Bold+Ideas!" />
+</div>
