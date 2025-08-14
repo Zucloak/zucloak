@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<img src="./z.gif" width="500" alt="Coding Animation">
+<img src="./z.gif" width="800" alt="Coding Animation">
 </div>
 
 ---
@@ -37,7 +37,7 @@
 | 🚩 DOMAIN              | 🔍 FOCUS                                      |
 | ---------------------- | --------------------------------------------- |
 | 🧠 AI / LLMs           | Autonomous Systems, Applied AI                |
-| 🌐 Blockchain / Web3   | Decentralized Infrastructure, Smart Contracts |
+| 🌐 Blockchain / Web3   | Decentralized Infrastructure, Smart Contracts, Ethereum |
 | 🖥️ Enterprise Systems | SaaS, Infrastructure, BYO-API Solutions       |
 | 🎨 Product Design      | UX/UI, Creative Engineering                   |
 | 🚀 Next-Gen Tech       | Quantum Computing, Digital Identity           |
@@ -50,7 +50,7 @@
 
 ### 💻 Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=js,python,c,cpp,cs,dart,ts,html,css,go&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,python,c,cpp,cs,dart,ts,html,css,go,rust,nix,mdx&theme=dark)
 
 ### 🚀 Frameworks & Libraries
 
@@ -105,21 +105,4 @@
 
 ---
 
-## 📍 DIGITAL FOOTPRINT
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zucloak&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Zucloak?color=00D4FF&style=for-the-badge&label=FOLLOWERS"/>
-</p>
-
----
-
-## 🚩 FINAL TRANSMISSION
-
-> This profile is not aesthetics. It's not trends. It's **mission-critical infrastructure for visionaries, technologists, and builders.**
->
-> **KEN MOSQUERA | SYVANT** isn't a name. It's an Operating System for the future.
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+engineer+something+iconic!;Deploy+Bold+Ideas!" />
-</div>
+## 📍 DIGITAL F
