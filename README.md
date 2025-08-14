@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
+<img src="./z.gif" width="500" alt="Coding Animation">
 </div>
 
 ---
@@ -50,23 +50,23 @@
 
 ### 💻 Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=js,python,c,cpp,cs,dart,ts,html,css,go\&theme=dark)
+![Languages](https://skillicons.dev/icons?i=js,python,c,cpp,cs,dart,ts,html,css,go&theme=dark)
 
 ### 🚀 Frameworks & Libraries
 
-![Frameworks](https://skillicons.dev/icons?i=react,flutter,nextjs,nodejs,express,tailwind,bootstrap\&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,flutter,nextjs,nodejs,express,tailwind,bootstrap&theme=dark)
 
 ### 🎨 Creative Arsenal
 
-![Creative](https://skillicons.dev/icons?i=figma,photoshop,blender,aftereffects\&theme=dark)
+![Creative](https://skillicons.dev/icons?i=figma,photoshop,blender,aftereffects&theme=dark)
 
 ### 🔧 Cloud & DevOps
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,gcp,vercel,aws\&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,gcp,vercel,aws&theme=dark)
 
 ### 🕸️ Blockchain / Web3
 
-![Web3](https://skillicons.dev/icons?i=solidity,ethereum\&theme=dark) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
+![Web3](https://skillicons.dev/icons?i=solidity,ethereum&theme=dark) <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48" height="48" alt="MetaMask" />
 
 ---
 
