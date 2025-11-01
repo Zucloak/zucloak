@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<img src="./z.gif" width="800" alt="Coding Animation">
+<img src="./z.gif" width="800" alt="zucloak">
 </div>
 
 ---
