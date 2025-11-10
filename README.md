@@ -17,6 +17,8 @@
 > **Engineering Autonomy | Empowering Systems | Envisioning Futures**  
 > This is my Integrated Command Hub — where **vision becomes execution and execution shapes reality**.
 
+🌐 [Visit my Portfolio](https://kmosq.vercel.app)
+
 ---
 
 ## 🎯 Core Missions
@@ -40,7 +42,6 @@
 | 🚀 Next-Gen Tech       | Quantum Computing, Digital Identity           |
 
 🌐 [Visit SYVANT](https://Syvant.vercel.app)
-
 ---
 
 ## 🔥 Tech Arsenal
